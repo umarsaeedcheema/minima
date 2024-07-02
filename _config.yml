@@ -9,6 +9,7 @@ description: >
   Journey of a Software Engineer
 
 # Build settings
+google_analytics: G-G6K83VYV5C
 
 # If you clone the Minima repo and build locally, use this setting.
 # theme: minima
